@@ -1,1 +1,1 @@
-# SmartContract_prototype
+# Smart Contract prototype
